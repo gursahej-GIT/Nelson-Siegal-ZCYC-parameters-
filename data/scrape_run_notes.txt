@@ -1,0 +1,4 @@
+Target range: 2013-01-01 to 2025-12-31
+Source: https://www.ccilindia.com/n-s-zcyc-parameters
+Method: Form POST with dynamic p_auth token and cookie session.
+Observation: Public endpoint currently returns only recent rows for available queries.
